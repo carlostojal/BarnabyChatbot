@@ -7,3 +7,5 @@ BarnabyChatbot is a simple chatbot used as demo for [Barnaby API](https://github
 * Run ```setup.sh``` to install all required dependencies.
 * Start the Barnaby API. See Barnaby API documentation. Check the address and port (Default: 127.0.0.1:5000)
 * Start the Barnaby Chatbot. (```barnaby.py```)
+
+![Barnaby Chatbot](https://raw.githubusercontent.com/carlostojal/BarnabyChatbot/master/img/screenshot.png?token=AIWB3W5KIG5GA7GLCOEZ3NC6QJGXQ)
